@@ -1,0 +1,22 @@
+{
+  "T_UI_Home_layout_activities": "art/ui/T_UI_Home_layout_activities.png",
+  "T_UI_Home_layout_signIn": "art/ui/T_UI_Home_layout_signIn.png",
+  "T_UI_Home_layout_tools": "art/ui/T_UI_Home_layout_tools.png",
+  "T_UI_Home_story_01": "art/ui/T_UI_Home_story_01.png",
+  "decor": "art/ui/T_UI_Home_istore_01_VIE.png",
+  "storage": "art/ui/T_UI_Home_synthesis_01_VIE.png",
+  "menu": "art/ui/T_UI_Home_task_01_VIE.png",
+  "staff": "art/ui/T_UI_Home_employee_01_VIE.png",
+  "research": "art/ui/T_UI_Home_installation_01_VIE.png",
+  "market": "art/ui/T_UI_Home_shop_01_VIE.png",
+  "rank_qt": "art/ui/T_UI_Home_qt_01.png",
+  "rank_by": "art/ui/T_UI_Home_by_01.png",
+  "rank_hj": "art/ui/T_UI_Home_hj_01.png",
+  "rank_zs": "art/ui/T_UI_Home_zs_01.png",
+  "rank_ds": "art/ui/T_UI_Home_ds_01.png",
+  "rank_xy": "art/ui/T_UI_Home_xy_01.png",
+  "money": "art/sprites/89c61cad1e222a84d937481672e9fec4.png",
+  "diamond": "art/sprites/c6c8872829337404ca468b0d98c3875c.png",
+  "journal": "art/sprites/023bdb7e4dd45644dbb521b692c94827.png",
+  "task": "art/sprites/eb888fe0e3702834d8afe3f64036dd1f.png"
+}
