@@ -1,0 +1,266 @@
+[
+  {
+    "id": 18,
+    "type": 18,
+    "kind": "called",
+    "target": 1,
+    "name": "Gọi món cho khách hàng",
+    "reward": 150
+  },
+  {
+    "id": 20,
+    "type": 20,
+    "kind": "cooked",
+    "target": 1,
+    "name": "Lên lẩu cho khách hàng",
+    "reward": 160
+  },
+  {
+    "id": 19,
+    "type": 19,
+    "kind": "dishes_served",
+    "target": 1,
+    "name": "Lên món cho khách hàng",
+    "reward": 180
+  },
+  {
+    "id": 17,
+    "type": 17,
+    "kind": "paid",
+    "target": 1,
+    "name": "Thanh toán cho khách hàng",
+    "reward": 200
+  },
+  {
+    "id": 401,
+    "type": 4,
+    "kind": "served",
+    "target": 2,
+    "name": "Phục vụ hai bàn khách hàng",
+    "reward": 400
+  },
+  {
+    "id": 12,
+    "type": 15,
+    "kind": "learned",
+    "target": 1,
+    "name": "Sáng tạo ra một món ăn mới",
+    "reward": 400
+  },
+  {
+    "id": 1101,
+    "type": 11,
+    "kind": "facility",
+    "target": 200,
+    "name": "Mở khóa bất kỳ tòa nhà mới nào với điểm cơ sở đạt 200 điểm",
+    "reward": 480
+  },
+  {
+    "id": 1001,
+    "type": 10,
+    "kind": "service",
+    "target": 24,
+    "name": "Tuyển nhân viên bất kỳ, điểm phục vụ đạt 24 điểm",
+    "reward": 480
+  },
+  {
+    "id": 1201,
+    "type": 12,
+    "kind": "food",
+    "target": 80,
+    "name": "Nâng cấp món ăn, điểm món ăn của nhà hàng đạt 80 điểm",
+    "reward": 480
+  },
+  {
+    "id": 402,
+    "type": 4,
+    "kind": "served",
+    "target": 4,
+    "name": "Phục vụ 4 bàn khách hàng",
+    "reward": 400
+  },
+  {
+    "id": 1502,
+    "type": 15,
+    "kind": "learned",
+    "target": 2,
+    "name": "Sáng tạo ra một món ăn mới",
+    "reward": 400
+  },
+  {
+    "id": 1601,
+    "type": 16,
+    "kind": "upgrades",
+    "target": 5,
+    "name": "Nâng cấp món ăn 5 lần",
+    "reward": 440
+  },
+  {
+    "id": 403,
+    "type": 4,
+    "kind": "served",
+    "target": 10,
+    "name": "Phục vụ 10 bàn khách hàng",
+    "reward": 600
+  },
+  {
+    "id": 1203,
+    "type": 15,
+    "kind": "learned",
+    "target": 2,
+    "name": "Sáng tạo ra một món ăn mới",
+    "reward": 600
+  },
+  {
+    "id": 404,
+    "type": 4,
+    "kind": "served",
+    "target": 20,
+    "name": "Phục vụ 20 bàn khách hàng",
+    "reward": 700
+  },
+  {
+    "id": 1204,
+    "type": 15,
+    "kind": "learned",
+    "target": 2,
+    "name": "Sáng tạo ra một món ăn mới",
+    "reward": 600
+  },
+  {
+    "id": 1102,
+    "type": 11,
+    "kind": "facility",
+    "target": 320,
+    "name": "Mua thêm các tòa nhà mới, điểm cơ sở đạt 320 điểm",
+    "reward": 700
+  },
+  {
+    "id": 2202,
+    "type": 22,
+    "kind": "rank",
+    "target": 5,
+    "name": "Đạt đến hạng sao Thiếc 1",
+    "reward": 1500
+  },
+  {
+    "id": 154,
+    "type": 11,
+    "kind": "facility",
+    "target": 12000,
+    "name": "Điểm cơ sở đạt 12000 điểm",
+    "reward": 5000
+  },
+  {
+    "id": 177,
+    "type": 12,
+    "kind": "food",
+    "target": 4200,
+    "name": "Điểm đánh giá về thức ăn đạt 4200",
+    "reward": 5500
+  },
+  {
+    "id": 178,
+    "type": 10,
+    "kind": "service",
+    "target": 820,
+    "name": "Điểm đánh giá về dịch vụ đạt 820",
+    "reward": 6000
+  },
+  {
+    "id": 165,
+    "type": 16,
+    "kind": "upgrades",
+    "target": 10,
+    "name": "Nâng cấp 10 món ăn",
+    "reward": 5450
+  },
+  {
+    "id": 179,
+    "type": 12,
+    "kind": "food",
+    "target": 5500,
+    "name": "Điểm đánh giá về thức ăn đạt 5500",
+    "reward": 5500
+  },
+  {
+    "id": 180,
+    "type": 11,
+    "kind": "facility",
+    "target": 30000,
+    "name": "Điểm cơ sở đạt 30000 điểm",
+    "reward": 5650
+  },
+  {
+    "id": 181,
+    "type": 15,
+    "kind": "learned",
+    "target": 10,
+    "name": "Phát triển mười món mới",
+    "reward": 5700
+  },
+  {
+    "id": 182,
+    "type": 4,
+    "kind": "served",
+    "target": 30,
+    "name": "Phục vụ 30 bàn khách hàng",
+    "reward": 5750
+  },
+  {
+    "id": 183,
+    "type": 11,
+    "kind": "facility",
+    "target": 60000,
+    "name": "Đạt đến hạng sao Vàng 3",
+    "reward": 5800
+  },
+  {
+    "id": 188,
+    "type": 15,
+    "kind": "learned",
+    "target": 10,
+    "name": "Sáng tạo mười món ăn mới",
+    "reward": 7550
+  },
+  {
+    "id": 189,
+    "type": 4,
+    "kind": "served",
+    "target": 40,
+    "name": "Phục vụ 40 bàn khách hàng",
+    "reward": 7600
+  },
+  {
+    "id": 190,
+    "type": 12,
+    "kind": "food",
+    "target": 12000,
+    "name": "Điểm đánh giá về thức ăn đạt 12000",
+    "reward": 7650
+  },
+  {
+    "id": 192,
+    "type": 15,
+    "kind": "learned",
+    "target": 10,
+    "name": "Phát triển mười món mới",
+    "reward": 7750
+  },
+  {
+    "id": 193,
+    "type": 16,
+    "kind": "upgrades",
+    "target": 15,
+    "name": "Nâng cấp 15 món ăn",
+    "reward": 7800
+  },
+  {
+    "id": 196,
+    "type": 22,
+    "kind": "rank",
+    "target": 16,
+    "name": "Đạt ★ Cấp Vàng 3",
+    "reward": 7950
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "wall": [
+    {
+      "cost": 3600,
+      "score": 20.0,
+      "sub_id": 22301,
+      "res_id": 33
+    },
+    {
+      "cost": 7200,
+      "score": 37.0,
+      "sub_id": 22301,
+      "res_id": 59
+    },
+    {
+      "cost": 64800,
+      "score": 50.0,
+      "sub_id": 22301,
+      "res_id": 85
+    }
+  ],
+  "floor": [
+    {
+      "cost": 3600,
+      "score": 20.0,
+      "sub_id": 20501,
+      "res_id": 32
+    },
+    {
+      "cost": 7200,
+      "score": 37.0,
+      "sub_id": 20501,
+      "res_id": 58
+    },
+    {
+      "cost": 64800,
+      "score": 50.0,
+      "sub_id": 20501,
+      "res_id": 84
+    }
+  ],
+  "decoration": [
+    {
+      "cost": 3600,
+      "score": 20.0,
+      "sub_id": 21902,
+      "res_id": 22
+    },
+    {
+      "cost": 7200,
+      "score": 37.0,
+      "sub_id": 21902,
+      "res_id": 47
+    },
+    {
+      "cost": 8640,
+      "score": 50.0,
+      "sub_id": 21902,
+      "res_id": 73
+    }
+  ],
+  "tables": [
+    {
+      "cost": 0,
+      "score": 10.0,
+      "sub_id": 20101,
+      "res_id": 21
+    },
+    {
+      "cost": 1350,
+      "score": 15.0,
+      "sub_id": 20101,
+      "res_id": 46
+    },
+    {
+      "cost": 2700,
+      "score": 20.0,
+      "sub_id": 20101,
+      "res_id": 72
+    }
+  ],
+  "counter": [
+    {
+      "cost": 0,
+      "score": 10.0,
+      "sub_id": 20701,
+      "res_id": 17
+    },
+    {
+      "cost": 1150,
+      "score": 15.0,
+      "sub_id": 20701,
+      "res_id": 42
+    },
+    {
+      "cost": 6900,
+      "score": 20.0,
+      "sub_id": 20701,
+      "res_id": 68
+    }
+  ]
+}
