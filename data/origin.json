@@ -1,8 +1,0 @@
-{
-  "apk": "My-Hot-Pot-Story_4.2.1_mod-V1.apk",
-  "version": "4.2.1",
-  "assets": "Recovered from the user-supplied APK",
-  "gameplay": "New implementation; not recovered original method bodies",
-  "animation_format": "Spine 3.8.95",
-  "engine": "Godot 4.5.1"
-}
